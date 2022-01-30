@@ -1,0 +1,15 @@
+*{
+    margin: 0 auto;
+}
+
+.dc-title {
+    font-size: 3em;
+    font-family: 'Courier New', Courier, monospace;
+    color: #009e89;
+    margin: 15px 20px;
+}
+
+.dc-overview {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
